@@ -22,4 +22,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🚀 Testando mesmo
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,nodejs,react)](https://skillicons.dev)<br><br>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
