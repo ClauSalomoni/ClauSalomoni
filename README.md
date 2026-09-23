@@ -43,11 +43,6 @@
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="Minhas Atividades" width="100%" />
-</p>
-
-<br />
 
 <!-- 2. Cards Lado a Lado Centralizados -->
 <div align="center">
