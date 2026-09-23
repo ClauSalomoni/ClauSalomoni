@@ -43,12 +43,17 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=ClauSalomoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>
-![](https://nirzak-streak-stats.vercel.app/?user=ClauSalomoni&theme=dark&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClauSalomoni&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="Minhas Atividades" width="100%" />
+</p>
 
+<br />
+
+<!-- 2. Cards Lado a Lado Centralizados -->
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ClauSalomoni&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165px" alt="Linguagens Mais Utilizadas" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClauSalomoni&theme=dark&hide_border=true" height="165px" alt="Sequência de Commits" />
 </div>
 
 ---
